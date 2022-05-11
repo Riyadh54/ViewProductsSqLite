@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ViewProductsSqLite</string>
+    <string name="model">T-Shirt</string>
+    <string name="company">NIKE</string>
+    <string name="price">200$</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="details_model">Model Name</string>
+    <string name="company_name">Company Name</string>
+    <string name="details_name">Price</string>
+    <string name="description">Description</string>
+    <string name="add_product">Add Product</string>
+    <string name="add_image">Open Image</string>
+    <string name="added_successfully">Added Successfully</string>
+    <string name="edit_successfully">Edit Successfully</string>
+    <string name="delete_successfully">Delete Successfully</string>
+    <string name="is_empty">DataBase is Empty</string>
+    <string name="not_found_model">Not Found this Model</string>
+    <string name="is_loading">is loading wait few seconds</string>
+    <string name="fill_fields">Please fill the fields</string>
+
+
+</resources>

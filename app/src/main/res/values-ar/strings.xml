@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عرض منتجات من قاعدة بيانات Sqlite</string>
+    <string name="model">T-Shirt</string>
+    <string name="company">NIKE</string>
+    <string name="price">200$</string>
+    <string name="add_to_cart">إضافة الى البطاقة</string>
+    <string name="details_model">إسم المنتج</string>
+    <string name="company_name">أسم شركة المنتخ</string>
+    <string name="details_name">السعر</string>
+    <string name="description">الوصف</string>
+    <string name="add_product">Add Product</string>
+    <string name="add_image">فتح صورة</string>
+    <string name="added_successfully">تمت عملية الإضافة بنجاح</string>
+    <string name="edit_successfully">تمت عملية التعديل بنجاح</string>
+    <string name="delete_successfully">تمت عملية الحذف بنجاح</string>
+    <string name="is_empty">قاعدة البيانات فارغة</string>
+    <string name="not_found_model">لايوجد اي نوع بهذا الإسم</string>
+    <string name="is_loading">يتم تحميل الصورة إنتضر بضع ثواني</string>
+    <string name="fill_fields">الرجاء تعبئة الحقول</string>
+</resources>
